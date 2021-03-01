@@ -1,0 +1,30 @@
+name: "biRd"
+title: "biRd"
+theme: biRd.css
+description: |
+  "Aventuras em ornitologia, ecologia e estatística."
+#base_url:
+output_dir: "_site"
+navbar:
+  logo: "logo.png"
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Sobre"
+      href: about.html
+    - text: "Contributors"
+      href: contributors.html
+    - icon: fab fa-github
+      href: https://github.com/Ivana-Cardoso
+      #source_url:
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: true
+    disqus: biRd
+    share: [twitter, linkedin]
+    #subscribe: _subscribe.html
+
+output: distill::distill_article

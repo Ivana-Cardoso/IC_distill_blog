@@ -1,0 +1,7 @@
+---
+title: "biRd"
+description: |
+  Aventuras em ornitologia, ecologia e estatística.
+site: distill::distill_website
+listing: posts
+---

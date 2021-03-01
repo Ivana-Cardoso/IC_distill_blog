@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Sobre este blog",
+      "description": "\n<p style='text-align: right;'> <font size=\"4\">  *\"Always pass on what you have learned\"* - Mestre Yoda <\/font> <\/p>\n\nOlá, \nSeja bem-vinda | bem-vindo ao biRd! \n\n\n<p style='text-align: justify;'>Este blog surgiu da vontade de compartilhar conhecimento com o maior número de pessoas possível. Aqui você vai encontrar (1) textos relacionados a ornitologia, ecologia e estatística, e (2) tutoriais para atividades em R e QGIS.<\/p>\n\nEspero que os textos sejam úteis de alguma forma e que você se divirta lendo.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-01T20:20:43-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "biRd",
+      "description": "Aventuras em ornitologia, ecologia e estatística.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-01T20:20:47-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
